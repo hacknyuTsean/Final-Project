@@ -59,6 +59,7 @@ Then, we can input the preliminary data
 ```
 
 Next, we input data obtained in the experiment for each trial.
+
 "add_weightandwetSoil" is where we input data of total weight of the mold, base plate, and wet soil in each trial
 
 "add_masscanandwetSoil" is where we input data of total mass of the can and wet soil in each trial
